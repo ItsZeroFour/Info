@@ -1,0 +1,34 @@
+ctrl + shift + p - терминал
+Quokka в терминал и открывается JS файл для редактирования
+
+https://www.youtube.com/watch?v=SvKL_i8A1N8&ab_channel=EGATOR
+
+
+slick - slider
+
+fancybox - воспроизведение видео внутри сайта
+
+mixitup - галирея
+
+cssgradient.io - работа с градиентом
+neumorphism.io - работа с формами блока
+animista.net   - работа с анимациями
+
+САЙТ ДЛЯ КАРТИНОК - unsplah
+
+иконки - https://fontawesome.com/
+Подключение к HTML - <script src="https://kit.fontawesome.com/5413f0480a.js" crossorigin="anonymous"></script>
+
+иконки 2 - https://ionic.io/ionicons
+
+Помещать картинки, логотипы на разные предметы как дизайн - https://artboard.studio/
+
+Обрезание картинок, сжатие, работа с видео и т.д. - https://tinywow.com/image/crop
+
+htmlreference.io - помощь по html
+cssreference.io - помощь по css
+fancy-border-radius - генератор красивых фигур css
+css triangle generator - генератор треугольников css
+pngimg.com - сайт с картинками без фона
+coverr.co - видео фон
+pixels.com - видео фон
